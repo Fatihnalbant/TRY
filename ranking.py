@@ -24,3 +24,4 @@ for i in joke:
     if i<smallest:
         smallest = i
 print ("Minimum is ", smallest)
+# TRY 
